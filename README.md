@@ -1,33 +1,49 @@
-# Hi, I'm Aman Kumar
-🌍 A student and backend developer from India  
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h3 align="center">💻 Backend Developer | 🌏 Environmental Enthusiast | 🇷🇺 Russian Language Learner</h3>
 
 ---
 
 ### 💫 About Me
-- ⚙️ Focused on backend development using **Java, Spring Boot, and MySQL**
-- 🧠 Love building **RESTful APIs** and exploring backend logic
-- 🧩 Experienced with **CRUD operations**, database handling, and API testing
-- 💬 Open to learning and sharing knowledge about backend and web technologies
-- 🌱 Currently improving my frontend skills with HTML, CSS, and JavaScript
+- ⚙️ Focused on backend development using **Java, Spring Boot, and MySQL**  
+- 🧠 Skilled in building **RESTful APIs** and performing **CRUD operations**  
+- 🔍 Experienced with **database handling, API testing, and version control**  
+- 🧩 Use **STS4** for development and **Postman** for API testing  
+- 🌱 Continuously improving my **frontend** knowledge (HTML, CSS, JavaScript)  
+- 🌐 Visit my portfolio: [www.amankumarcoding.space](https://www.amankumarcoding.space)  
+- 🪪 Holder of **international certificates** and passionate about learning global skills  
+- 🇷🇺 Learning the **Russian language** to connect and grow internationally  
 
 ---
 
 ### 🛠️ Languages and Tools
-**Backend:** Java • Spring Boot • MySQL • Git  
-**Frontend:** HTML • CSS • JavaScript  
-**Tools:** STS4 • Postman  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="STS4" width="45" height="45"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar0152&theme=tokyonight&hide_border=true" alt="Aman's GitHub streak" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+### 🌎 Connect with Me
 - 📧 Email: [Amanghostvilla@gmail.com](mailto:Amanghostvilla@gmail.com)  
 - 💼 LinkedIn: [Aman Maurya](https://www.linkedin.com/in/aman-maurya-3a9261236/)  
+- 🌐 Portfolio: [amankumarcoding.space](https://www.amankumarcoding.space)  
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for visiting my profile! Always learning, building, and exploring the world through code and culture.**

@@ -26,6 +26,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
   </a>
+  <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Spring Tool Suite (STS4)" width="45" height="45"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   </a>
@@ -37,12 +43,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  </a>
-  <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Spring Tool Suite (STS4)" width="45" height="45"/>
   </a>
 </p>
 

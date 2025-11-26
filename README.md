@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">💻 Backend Developer | 🌏 Environmental Enthusiast | 🇷🇺 Russian Language Learner</h3>
+<h3 align="center">💻 Backend Developement | 🌏 Environmental Enthusiast | 🇷🇺 Russian Language Learner</h3>
 
 ---
 

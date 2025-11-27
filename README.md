@@ -51,10 +51,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Amankumar0152&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Aman's GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amankumar0152&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 

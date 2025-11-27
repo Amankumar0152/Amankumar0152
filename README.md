@@ -26,9 +26,9 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
 </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/>
+</a>
   <a href="https://spring.io/tools" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Spring Tool Suite (STS4)" width="45" height="45"/>
   </a>

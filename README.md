@@ -51,9 +51,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
-  <br/>
-  ![Aman's GitHub Streak](https://streak-stats.demolab.com?user=Amankumar0152&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Amankumar0152&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Aman's GitHub Streak" />
 </p>
 
 ---

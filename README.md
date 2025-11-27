@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amankumar0152&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Amankumar0152&theme=tokyonight&hide_border=true" alt="Aman's GitHub streak" />
+  ![Aman's GitHub Streak](https://streak-stats.demolab.com?user=Amankumar0152&theme=tokyonight&hide_border=true)
 </p>
 
 ---
